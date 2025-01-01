@@ -1,0 +1,38 @@
+.bgone{
+  background-image: url("/Hero-bg.png"), url("/crystal-bg.png"), url("/crystal-bg2.png");
+  background-position: 99% 150%, left top, left bottom;
+  background-size: 50% 70%;
+  background-repeat: no-repeat;
+  background-size: 35% auto, 40%, 50%;
+}
+.bgtwo{
+  background-image: url("/big-logo-bg.png");
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.bgthree{
+  background-image: url("/green-logo-bg.png");
+  background-repeat: no-repeat;
+  background-position: left;
+}
+.bgfour{
+  background-image: url("/big-logo-bg2.png");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
+.bgfive{
+  background-image: url("/blog-bg.png");
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.bg-mm{
+  background-image: url("/mobile-menu-bg.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.featured-listing-bg{
+  background-image: linear-gradient(45deg, #0D4D35, rgba(255, 255, 255, .3)), url('/lalanda-nav-bg.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
